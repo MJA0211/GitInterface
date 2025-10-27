@@ -20,18 +20,15 @@ Git Interface is a user-friendly desktop application designed to simplify intera
 1. Clone this repository to your local machine using Git:
 git clone https://github.com/yourusername/git-interface.git
 
-css
-Copy code
+
 2. Navigate to the project directory:
 cd git-interface
 
-markdown
-Copy code
+
 3. Install the required Python packages:
 pip install -r requirements.txt
 
-bash
-Copy code
+
 
 ## Usage
 
