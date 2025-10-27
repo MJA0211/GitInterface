@@ -36,8 +36,6 @@ To start the application, run the following command in the terminal:
 
 python git_gui.py
 
-less
-Copy code
 
 The application window will open, and you can start interacting with your Git repositories through the GUI.
 
